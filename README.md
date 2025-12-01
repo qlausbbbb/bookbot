@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev/u/exypnos) project!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
